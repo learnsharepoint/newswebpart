@@ -1,2 +1,2 @@
 # newswebpart
- SPFx News WebPart
+Displays News Items from a SharePoint Online List
