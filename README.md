@@ -1,0 +1,2 @@
+# newswebpart
+ SPFx News WebPart
